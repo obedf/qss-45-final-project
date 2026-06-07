@@ -1,0 +1,1 @@
+Partial correlation between RPL_EBM and EPLMINRTY, controlling for poverty and region: 0.372006

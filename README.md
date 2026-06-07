@@ -3,4 +3,6 @@ Repo including all materials related to QSS 45 (Artificial Intteligence amd Mach
 
 Link to website: https://qss-45-website-obedf.vercel.app/
 
+Link to website's github repo: https://github.com/obedf/qss-45-website
+
 Link to paper:

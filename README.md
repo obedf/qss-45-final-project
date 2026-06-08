@@ -23,6 +23,7 @@ qss-45-final-project/
 ├── code/      # Jupyter notebooks for data processing and analysis
 ├── data/      # Raw and processed datasets
 └── output/    # Generated figures and results
+└── paper/     # Scientific writeup
 ```
 
 ## Requirements

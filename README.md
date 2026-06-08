@@ -8,7 +8,7 @@ Repo including all materials related to QSS 45 (Artificial Intelligence and Mach
 
 **Website repo:** [github.com/obedf/qss-45-website](https://github.com/obedf/qss-45-website)
 
-**Paper:** 
+**Paper:** https://drive.google.com/drive/folders/1oKSwm3oRdNdRNr0TtH17R-N21e15vWY_?usp=sharing
 
 ---
 
